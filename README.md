@@ -8,6 +8,9 @@ The application allows users to increment or decrement a numerical counter with 
 
 It was designed as a simple and practical project to explore basic Android user interface development and event handling with Kotlin.
 
+<img width="330" height="598" alt="image" src="https://github.com/user-attachments/assets/698c9dfe-2e23-4716-93bc-ed0032d1fae9" />
+
+
 ## Features
 
 * Increment the counter
