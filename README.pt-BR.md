@@ -5,6 +5,8 @@ Este é um aplicativo simples de contador desenvolvido em Kotlin como parte da d
 <strong>Descrição</strong><br>
 O aplicativo permite ao usuário incrementar ou decrementar um contador com apenas um toque. Ele foi projetado para ser simples e intuitivo, servindo como um exemplo prático de como criar interfaces de usuário básicas e manipular eventos em Kotlin.
 
+<img width="330" height="598" alt="image" src="https://github.com/user-attachments/assets/e0ba7c85-c5df-4fe7-ae73-74c27870a703" />
+
 
 <strong>Funcionalidades</strong><br>
     •    Incrementar o contador.<br>
